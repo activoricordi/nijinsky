@@ -1,6 +1,6 @@
 # Nijinsky
 
-A set of reactive event driven architecture GitOps templates. It is an **Infrastructure as code** project. It target to be deployed in main cloud providers such as [Amazon Web Services](https://aws.amazon.com/), [Microsoft Azure] and [Google Cloud].
+A set of reactive event driven architecture GitOps templates. It is an **Infrastructure as code** project. It target to be deployed in main cloud providers such as [Amazon Web Services](https://aws.amazon.com/), [Microsoft Azure](https://portal.azure.com) and [Google Cloud](https://cloud.google.com).
 
 ## What is an Event?
 
